@@ -1,2 +1,2 @@
-# chungaict.github.io
-zero trust network platform
+https://chungaict.github.io/
+
